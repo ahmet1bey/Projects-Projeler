@@ -10,7 +10,8 @@ class ButtonsButonlar extends StatelessWidget {
       { //Key? key,
       required this.TextMetin,
       required this.SizeBoyut,
-      required this.ClickTiklama});
+      required this.ClickTiklama,
+      });
        //: super(key: key);
 
   @override
